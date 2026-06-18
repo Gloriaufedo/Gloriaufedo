@@ -83,7 +83,7 @@ Clinical and transcriptomic analysis evaluating GPX4 as a prognostic biomarker i
 
 **Tech:** TCGA, GDC API, Kaplan-Meier Survival Analysis, Statistical Testing
 
-➡️ Repository: [(https://github.com/Gloriaufedo/Bioinformatics-Portfolio/tree/main/Ferroptosis%20Biomarker%20Discovery%20in%20TCGA-LIHC)]
+➡️ Repository:[(https://github.com/Gloriaufedo/Bioinformatics-Portfolio/tree/main/Immune%20Microenvironment%20Analysis%20in%20TCGA-LIHC)]
 
 ---
 
@@ -115,7 +115,7 @@ Conducted literature synthesis and mechanistic analysis of puerarin-mediated NRF
 
 ### Publication:
 
-<https://ieeexplore.ieee.org/document/10630141>
+[Published Online Article](https://ieeexplore.ieee.org/document/10630141)
 
 ---
 
