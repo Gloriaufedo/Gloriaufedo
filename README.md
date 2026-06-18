@@ -115,7 +115,7 @@ Conducted literature synthesis and mechanistic analysis of puerarin-mediated NRF
 
 ### Publication:
 
-[Published Online Article](https://ieeexplore.ieee.org/document/10630141)
+[Published Scientific Article](https://ieeexplore.ieee.org/document/10630141)
 
 ---
 
