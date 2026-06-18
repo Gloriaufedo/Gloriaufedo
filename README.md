@@ -79,7 +79,7 @@ Immune profiling using ssGSEA and multivariable Cox regression to evaluate CD8 T
 ## 🧬 Single-Cell RNA-seq Analysis of Human PBMCs
 End-to-end scRNA-seq pipeline tracing immune cell landscapes via quality control filtering, normalization, Leiden clustering, and canonical marker annotation.
 - **Tech:** Scanpy, AnnData, Leidenalg, UMAP, Wilcoxon Rank-Sum Testing
-- ➡️ Repository: [Single-Cell RNA-seq Analysis Project]([https://github.com/Gloriaufedo/Bioinformatics-Portfolio/tree/main/Single%20Cell%20RNA-seq%20Analysis](https://github.com/Gloriaufedo/Bioinformatics-Portfolio/tree/main/Single-Cell%20RNA-seq%20Analysis%20of%20Human%20PBMCs))
+- ➡️ Repository: [Single-Cell RNA-seq Analysis Project](https://github.com/Gloriaufedo/Bioinformatics-Portfolio/tree/main/Single-Cell%20RNA-seq%20Analysis%20of%20Human%20PBMCs)
 
 ---
 
