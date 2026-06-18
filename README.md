@@ -1,10 +1,9 @@
-![Computational Biology](https://img.shields.io/badge/Computational&20Biology-Data%20Science-blue)
+![Computational_Biology](https://img.shields.io/badge/Computational%20Biology-Data%20Science-blue)
 ![Bioinformatics](https://img.shields.io/badge/Bioinformatics-Genomics-green)
 ![SQL](https://img.shields.io/badge/SQL-Analytics-orange)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Applied-red)
 
 # 👋 Hi, I'm Gloria Austin
-## Computational Biology • Bioinformatics • Data Analytics
 
 First-Class Biochemistry Graduate with experience building transcriptomics, survival analysis, and biomarker discovery pipelines using public cancer genomics datasets.
 
