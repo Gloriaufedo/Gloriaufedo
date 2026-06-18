@@ -67,7 +67,7 @@ RNA-seq analysis investigating ferroptosis induction and rescue mechanisms using
 
 **Tech:** Python, Statsmodels, GSEApy, PCA, Differential Expression
 
-➡️ Repository: [Add Link]
+➡️ Repository: [https://github.com/Gloriaufedo/Bioinformatics-Portfolio]
 
 ---
 
@@ -77,7 +77,7 @@ Clinical and transcriptomic analysis evaluating GPX4 as a prognostic biomarker i
 
 **Tech:** TCGA, GDC API, Kaplan-Meier Survival Analysis, Statistical Testing
 
-➡️ Repository: [Add Link]
+➡️ Repository: [https://github.com/Gloriaufedo/Bioinformatics-Portfolio]
 
 ---
 
@@ -87,7 +87,7 @@ Immune profiling using ssGSEA and multivariable Cox regression to evaluate CD8 T
 
 **Tech:** GSEApy, Lifelines, Survival Analysis, Clinical Data Integration
 
-➡️ Repository: [Add Link]
+➡️ Repository: [https://github.com/Gloriaufedo/Bioinformatics-Portfolio]
 
 ---
 
