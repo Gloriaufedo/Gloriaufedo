@@ -102,5 +102,5 @@ Immune profiling using ssGSEA and multivariable Cox regression to evaluate CD8 T
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Add Link]
-- Email: your.email@example.com
+- LinkedIn: [https://www.linkedin.com/in/gloria-austin-143334292/]
+- Email: gloriaaustin002@gmail.com
