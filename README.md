@@ -102,20 +102,20 @@ Immune profiling using ssGSEA and multivariable Cox regression to evaluate CD8 T
 
 Published in IEEE Conference Proceedings
 
-# Research Focus
+### Research Focus
 
 - NRF2 signaling
 - Oxidative stress
 - Natural products pharmacology
 - Disease prevention and therapeutics
 
-# Contribution
+### Contribution
 
 Conducted literature synthesis and mechanistic analysis of puerarin-mediated NRF2 activation across neurological, cardiovascular, metabolic, and inflammatory diseases.
 
-# Publication:
+### Publication:
 
-<https://ieeexplore.ieee.org/document/10630141?utm_source=chatgpt.com>
+<https://ieeexplore.ieee.org/document/10630141>
 
 ---
 
