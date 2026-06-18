@@ -1,16 +1,101 @@
-## Hi there 👋
+# 👋 Hi, I'm Gloria Austin
 
-<!--
-**Gloriaufedo/Gloriaufedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### First-Class Biochemistry Graduate | Data Analyst | Aspiring Bioinformatician
 
-Here are some ideas to get you started:
+I build data-driven solutions at the intersection of genomics, healthcare, and analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work focuses on extracting biological insights from high-dimensional datasets using statistical modeling, machine learning, survival analysis, and transcriptomic profiling.
+
+---
+
+## 🔬 Areas of Interest
+
+- Bioinformatics
+- Computational Genomics
+- Cancer Biology
+- Transcriptomics
+- Survival Analysis
+- Data Analytics
+- Machine Learning in Healthcare
+
+---
+
+## 🛠 Technical Skills
+
+### Programming
+
+- Python
+- SQL
+- R (Learning)
+
+### Data Science
+
+- Pandas
+- NumPy
+- Scikit-Learn
+- Statsmodels
+- SciPy
+
+### Bioinformatics
+
+- GSEApy
+- Biopython
+- GEO
+- TCGA
+- GDC API
+- MSigDB
+
+### Visualization
+
+- Power BI
+- Tableau
+- Matplotlib
+- Seaborn
+
+---
+
+# 🚀 Featured Projects
+
+## 🧬 Ferroptosis Transcriptomic Analysis in HepG2 Cells
+
+RNA-seq analysis investigating ferroptosis induction and rescue mechanisms using Erastin and Ferrostatin.
+
+**Tech:** Python, Statsmodels, GSEApy, PCA, Differential Expression
+
+➡️ Repository: [Add Link]
+
+---
+
+## 📊 Ferroptosis Biomarker Discovery in TCGA-LIHC
+
+Clinical and transcriptomic analysis evaluating GPX4 as a prognostic biomarker in liver cancer.
+
+**Tech:** TCGA, GDC API, Kaplan-Meier Survival Analysis, Statistical Testing
+
+➡️ Repository: [Add Link]
+
+---
+
+## 🧬 Immune Microenvironment Analysis in TCGA-LIHC
+
+Immune profiling using ssGSEA and multivariable Cox regression to evaluate CD8 T-cell infiltration and patient outcomes.
+
+**Tech:** GSEApy, Lifelines, Survival Analysis, Clinical Data Integration
+
+➡️ Repository: [Add Link]
+
+---
+
+## 🎯 Current Focus
+
+- Cancer Transcriptomics
+- Bioinformatics MSc/PhD Preparation
+- Survival Analytics
+- Computational Biology
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: [Add Link]
+- Email: your.email@example.com
