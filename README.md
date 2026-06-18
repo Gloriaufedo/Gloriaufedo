@@ -77,7 +77,7 @@ Clinical and transcriptomic analysis evaluating GPX4 as a prognostic biomarker i
 
 **Tech:** TCGA, GDC API, Kaplan-Meier Survival Analysis, Statistical Testing
 
-➡️ Repository: [https://github.com/Gloriaufedo/Bioinformatics-Portfolio]
+➡️ Repository: [(https://github.com/Gloriaufedo/Bioinformatics-Portfolio/tree/main/Ferroptosis%20Biomarker%20Discovery%20in%20TCGA-LIHC)]
 
 ---
 
