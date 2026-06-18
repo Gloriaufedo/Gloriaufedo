@@ -123,5 +123,5 @@ Conducted literature synthesis and mechanistic analysis of puerarin-mediated NRF
 
 ## 📫 Connect With Me
 
-- LinkedIn: [https://www.linkedin.com/in/gloria-austin-143334292/]
-- Email: gloriaaustin002@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/gloria-austin-143334292/)
+- [Email](gloriaaustin002@gmail.com)
