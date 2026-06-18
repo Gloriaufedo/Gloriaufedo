@@ -4,12 +4,19 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Applied-red)
 
 # 👋 Hi, I'm Gloria Austin
+Computational Biology • Bioinformatics • Data Analytics
 
-### First-Class Biochemistry Graduate | Data Analyst | Aspiring Bioinformatician
+First-Class Biochemistry Graduate with experience building transcriptomics, survival analysis, and biomarker discovery pipelines using public cancer genomics datasets.
 
-I build data-driven solutions at the intersection of genomics, healthcare, and analytics.
+Published researcher with expertise in:
 
-My work focuses on extracting biological insights from high-dimensional datasets using statistical modeling, machine learning, survival analysis, and transcriptomic profiling.
+RNA-seq analysis
+TCGA data mining
+Survival modeling
+Pathway enrichment analysis
+Statistical modeling
+Data visualization
+Business intelligence analytics
 
 ---
 
