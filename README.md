@@ -18,7 +18,7 @@ First-Class Biochemistry Graduate with experience building transcriptomics, sing
 
 ---
 
-## 🔬 Areas of Interest
+## Areas of Interest
 
 - Bioinformatics & Computational Genomics
 - Single-Cell Transcriptomics
@@ -53,7 +53,7 @@ First-Class Biochemistry Graduate with experience building transcriptomics, sing
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
 ## 🧬 Ferroptosis Transcriptomic Analysis in HepG2 Cells
 RNA-seq analysis investigating ferroptosis induction and rescue mechanisms using Erastin and Ferrostatin.
@@ -62,7 +62,7 @@ RNA-seq analysis investigating ferroptosis induction and rescue mechanisms using
 
 ---
 
-## 📊 Ferroptosis Biomarker Discovery in TCGA-LIHC
+## 🧬 Ferroptosis Biomarker Discovery in TCGA-LIHC
 Clinical and transcriptomic analysis evaluating GPX4 as a prognostic biomarker in liver cancer.
 - **Tech:** TCGA, GDC API, Kaplan-Meier Survival Analysis, Statistical Testing
 - ➡️ Repository: [Ferroptosis Biomarker Discovery in TCGA-LIHC Project](https://github.com/Gloriaufedo/Bioinformatics-Portfolio/tree/main/Ferroptosis%20Biomarker%20Discovery%20in%20TCGA-LIHC)
