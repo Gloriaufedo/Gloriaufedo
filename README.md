@@ -73,7 +73,7 @@ RNA-seq analysis investigating ferroptosis induction and rescue mechanisms using
 
 **Tech:** Python, Statsmodels, GSEApy, PCA, Differential Expression
 
-➡️ Repository: [(https://github.com/Gloriaufedo/Bioinformatics-Portfolio/tree/main/Erastin_Ferrostatin_RNAseq_Analysis)]
+➡️ Repository: [Ferroptosis Transcriptomic Analysis in HepG2 Cells Project](https://github.com/Gloriaufedo/Bioinformatics-Portfolio/tree/main/Erastin_Ferrostatin_RNAseq_Analysis)
 
 ---
 
@@ -83,7 +83,7 @@ Clinical and transcriptomic analysis evaluating GPX4 as a prognostic biomarker i
 
 **Tech:** TCGA, GDC API, Kaplan-Meier Survival Analysis, Statistical Testing
 
-➡️ Repository: [(https://github.com/Gloriaufedo/Bioinformatics-Portfolio/tree/main/Ferroptosis%20Biomarker%20Discovery%20in%20TCGA-LIHC)]
+➡️ Repository: [Ferroptosis Biomarker Discovery in TCGA-LIHC Project](https://github.com/Gloriaufedo/Bioinformatics-Portfolio/tree/main/Ferroptosis%20Biomarker%20Discovery%20in%20TCGA-LIHC)
 
 ---
 
@@ -93,7 +93,7 @@ Immune profiling using ssGSEA and multivariable Cox regression to evaluate CD8 T
 
 **Tech:** GSEApy, Lifelines, Survival Analysis, Clinical Data Integration
 
-➡️ Repository:[(https://github.com/Gloriaufedo/Bioinformatics-Portfolio/tree/main/Immune%20Microenvironment%20Analysis%20in%20TCGA-LIHC)]
+➡️ Repository:[Immune Microenvironment Analysis in TCGA-LIHC Project](https://github.com/Gloriaufedo/Bioinformatics-Portfolio/tree/main/Immune%20Microenvironment%20Analysis%20in%20TCGA-LIHC)
 
 ---
 
