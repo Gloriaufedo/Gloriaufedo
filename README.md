@@ -7,15 +7,15 @@
 
 First-Class Biochemistry Graduate with experience building transcriptomics, survival analysis, and biomarker discovery pipelines using public cancer genomics datasets.
 
-Published researcher with expertise in:
+**Published researcher** with expertise in:
 
-RNA-seq analysis
-TCGA data mining
-Survival modeling
-Pathway enrichment analysis
-Statistical modeling
-Data visualization
-Business intelligence analytics
+- RNA-seq analysis
+- TCGA data mining
+- Survival modeling
+- Pathway enrichment analysis
+- Statistical modeling
+- Data visualization
+- Business intelligence analytics
 
 ---
 
