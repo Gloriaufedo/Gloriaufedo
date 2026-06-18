@@ -4,7 +4,7 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Applied-red)
 
 # 👋 Hi, I'm Gloria Austin
-Computational Biology • Bioinformatics • Data Analytics
+## Computational Biology • Bioinformatics • Data Analytics
 
 First-Class Biochemistry Graduate with experience building transcriptomics, survival analysis, and biomarker discovery pipelines using public cancer genomics datasets.
 
