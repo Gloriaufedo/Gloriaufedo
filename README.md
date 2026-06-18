@@ -93,7 +93,7 @@ Immune profiling using ssGSEA and multivariable Cox regression to evaluate CD8 T
 
 **Tech:** GSEApy, Lifelines, Survival Analysis, Clinical Data Integration
 
-➡️ Repository:[Immune Microenvironment Analysis in TCGA-LIHC Project](https://github.com/Gloriaufedo/Bioinformatics-Portfolio/tree/main/Immune%20Microenvironment%20Analysis%20in%20TCGA-LIHC)
+➡️ Repository: [Immune Microenvironment Analysis in TCGA-LIHC Project](https://github.com/Gloriaufedo/Bioinformatics-Portfolio/tree/main/Immune%20Microenvironment%20Analysis%20in%20TCGA-LIHC)
 
 ---
 
