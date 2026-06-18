@@ -100,6 +100,19 @@ Immune profiling using ssGSEA and multivariable Cox regression to evaluate CD8 T
 
 ---
 
+## 📚 Portfolio Highlights
+
+| Domain | Project |
+|----------|----------|
+| Bioinformatics | Ferroptosis Transcriptomics |
+| Bioinformatics | GPX4 Biomarker Discovery |
+| Bioinformatics | Immune Microenvironment Analysis |
+| Data Analytics | TradeZone Growth Analysis |
+| Data Analytics | Customer Insights Dashboard |
+| Business Intelligence | Power BI Dashboard Projects |
+
+---
+
 ## 📫 Connect With Me
 
 - LinkedIn: [https://www.linkedin.com/in/gloria-austin-143334292/]
