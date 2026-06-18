@@ -67,7 +67,7 @@ RNA-seq analysis investigating ferroptosis induction and rescue mechanisms using
 
 **Tech:** Python, Statsmodels, GSEApy, PCA, Differential Expression
 
-➡️ Repository: [https://github.com/Gloriaufedo/Bioinformatics-Portfolio]
+➡️ Repository: [(https://github.com/Gloriaufedo/Bioinformatics-Portfolio/tree/main/Erastin_Ferrostatin_RNAseq_Analysis)]
 
 ---
 
