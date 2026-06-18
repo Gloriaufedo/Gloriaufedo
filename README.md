@@ -55,31 +55,31 @@ First-Class Biochemistry Graduate with experience building transcriptomics, sing
 
 # Featured Projects
 
-## 🧬 Single-Cell RNA-seq Analysis of Human PBMCs
+## 🧬 Single-Cell RNA-seq Analysis of Human PBMCs (Peripheral Blood Mononuclear Cells)
 End-to-end scRNA-seq pipeline tracing immune cell landscapes via quality control filtering, normalization, Leiden clustering, and canonical marker annotation.
 - **Tech:** Scanpy, AnnData, Leidenalg, UMAP, Wilcoxon Rank-Sum Testing
-- ➡️ Repository: [Single-Cell RNA-seq Analysis Project](https://github.com/Gloriaufedo/Bioinformatics-Portfolio/tree/main/Single-Cell%20RNA-seq%20Analysis%20of%20Human%20PBMCs)
+- Repository: [Single-Cell RNA-seq Analysis Project](https://github.com/Gloriaufedo/Bioinformatics-Portfolio/tree/main/Single-Cell%20RNA-seq%20Analysis%20of%20Human%20PBMCs)
 
 ---
 
 ## 🧬 Ferroptosis Transcriptomic Analysis in HepG2 Cells
 RNA-seq analysis investigating ferroptosis induction and rescue mechanisms using Erastin and Ferrostatin.
 - **Tech:** Python, Statsmodels, GSEApy, PCA, Differential Expression
-- ➡️ Repository: [Ferroptosis Transcriptomic Analysis in HepG2 Cells Project](https://github.com/Gloriaufedo/Bioinformatics-Portfolio/tree/main/Erastin_Ferrostatin_RNAseq_Analysis)
+- Repository: [Ferroptosis Transcriptomic Analysis in HepG2 Cells Project](https://github.com/Gloriaufedo/Bioinformatics-Portfolio/tree/main/Erastin_Ferrostatin_RNAseq_Analysis)
 
 ---
 
 ## 🧬 Ferroptosis Biomarker Discovery in TCGA-LIHC
 Clinical and transcriptomic analysis evaluating GPX4 as a prognostic biomarker in liver cancer.
 - **Tech:** TCGA, GDC API, Kaplan-Meier Survival Analysis, Statistical Testing
-- ➡️ Repository: [Ferroptosis Biomarker Discovery in TCGA-LIHC Project](https://github.com/Gloriaufedo/Bioinformatics-Portfolio/tree/main/Ferroptosis%20Biomarker%20Discovery%20in%20TCGA-LIHC)
+- Repository: [Ferroptosis Biomarker Discovery in TCGA-LIHC Project](https://github.com/Gloriaufedo/Bioinformatics-Portfolio/tree/main/Ferroptosis%20Biomarker%20Discovery%20in%20TCGA-LIHC)
 
 ---
 
 ## 🧬 Immune Microenvironment Analysis in TCGA-LIHC
 Immune profiling using ssGSEA and multivariable Cox regression to evaluate CD8 T-cell infiltration and patient outcomes.
 - **Tech:** GSEApy, Lifelines, Survival Analysis, Clinical Data Integration
-- ➡️ Repository: [Immune Microenvironment Analysis in TCGA-LIHC Project](https://github.com/Gloriaufedo/Bioinformatics-Portfolio/tree/main/Immune%20Microenvironment%20Analysis%20in%20TCGA-LIHC)
+- Repository: [Immune Microenvironment Analysis in TCGA-LIHC Project](https://github.com/Gloriaufedo/Bioinformatics-Portfolio/tree/main/Immune%20Microenvironment%20Analysis%20in%20TCGA-LIHC)
 
 ---
 
