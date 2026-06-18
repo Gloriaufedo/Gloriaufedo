@@ -55,6 +55,13 @@ First-Class Biochemistry Graduate with experience building transcriptomics, sing
 
 # Featured Projects
 
+## 🧬 Single-Cell RNA-seq Analysis of Human PBMCs
+End-to-end scRNA-seq pipeline tracing immune cell landscapes via quality control filtering, normalization, Leiden clustering, and canonical marker annotation.
+- **Tech:** Scanpy, AnnData, Leidenalg, UMAP, Wilcoxon Rank-Sum Testing
+- ➡️ Repository: [Single-Cell RNA-seq Analysis Project](https://github.com/Gloriaufedo/Bioinformatics-Portfolio/tree/main/Single-Cell%20RNA-seq%20Analysis%20of%20Human%20PBMCs)
+
+---
+
 ## 🧬 Ferroptosis Transcriptomic Analysis in HepG2 Cells
 RNA-seq analysis investigating ferroptosis induction and rescue mechanisms using Erastin and Ferrostatin.
 - **Tech:** Python, Statsmodels, GSEApy, PCA, Differential Expression
@@ -73,13 +80,6 @@ Clinical and transcriptomic analysis evaluating GPX4 as a prognostic biomarker i
 Immune profiling using ssGSEA and multivariable Cox regression to evaluate CD8 T-cell infiltration and patient outcomes.
 - **Tech:** GSEApy, Lifelines, Survival Analysis, Clinical Data Integration
 - ➡️ Repository: [Immune Microenvironment Analysis in TCGA-LIHC Project](https://github.com/Gloriaufedo/Bioinformatics-Portfolio/tree/main/Immune%20Microenvironment%20Analysis%20in%20TCGA-LIHC)
-
----
-
-## 🧬 Single-Cell RNA-seq Analysis of Human PBMCs
-End-to-end scRNA-seq pipeline tracing immune cell landscapes via quality control filtering, normalization, Leiden clustering, and canonical marker annotation.
-- **Tech:** Scanpy, AnnData, Leidenalg, UMAP, Wilcoxon Rank-Sum Testing
-- ➡️ Repository: [Single-Cell RNA-seq Analysis Project](https://github.com/Gloriaufedo/Bioinformatics-Portfolio/tree/main/Single-Cell%20RNA-seq%20Analysis%20of%20Human%20PBMCs)
 
 ---
 
